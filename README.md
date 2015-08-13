@@ -1,4 +1,4 @@
-# Firebase Token Generator - Node.js
+# Firebase Token Generator - Node.js for Cash Courier
 
 [![Build Status](https://travis-ci.org/firebase/firebase-token-generator-node.svg)](https://travis-ci.org/firebase/firebase-token-generator-node)
 [![Version](https://badge.fury.io/gh/firebase%2Ffirebase-token-generator-node.svg)](http://badge.fury.io/gh/firebase%2Ffirebase-token-generator-node)
